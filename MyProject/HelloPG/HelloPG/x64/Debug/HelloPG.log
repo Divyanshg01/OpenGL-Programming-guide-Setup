@@ -1,0 +1,5 @@
+﻿  10-fur.cpp
+C:\OpenGL_Files\include\vmath.h(1022,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '10-fur.cpp')
+  
+  HelloPG.vcxproj -> D:\yt\Project Files\MyProject\HelloPG\x64\Debug\HelloPG.exe
