@@ -8,14 +8,18 @@ there are not many(trust me)
 
 1. Clone the repo
 2. Cut the folder **"OpenGL_Files"** and past it in your C drive
+
    > Caution : The folder must be pasted in the root (not in any folder)
    > ![alt text](image.png)
 
-It contains 3 files
+   It contains 3 files
 
-1.include  
-2.lib  
-3. media (this contains media to be used by code examples of book)
+   1.include  
+    2.lib  
+    3. media (this contains media to be used by code examples of book)
+
+3. Configure the user path variables(environment variables > user variables[not system variables])
+   ![alt text](image-1.png)
 
 ## Run
 
